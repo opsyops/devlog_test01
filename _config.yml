@@ -1,0 +1,11 @@
+# basic options
+title: rrtUK daily log
+author: Opsy Ops
+email: opsATredbullionDOTcom
+description: rrtUK devlog
+twitter_username: tbd
+github_username:  OpsyOps
+
+# Build settings
+markdown: kramdown
+theme: hacker
